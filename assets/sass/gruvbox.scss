@@ -1,67 +1,47 @@
 :root {
-  --bg_h: #f9f5d7;
-  --bg: #fbf1c7;
-  --bg_s: #f2e5bc;
-  --bg1: #ebdbb2;
-  --bg2: #d5c4a1;
-  --bg3: #bdae93;
-  --bg4: #a89984;
+  --bg_h: #F5F2EC;
+  --bg:   #FAFAF7;
+  --bg_s: #F0EDE6;
+  --bg1:  #E8E4DC;
+  --bg2:  #D8D3C8;
+  --bg3:  #C4BDB0;
+  --bg4:  #A89F94;
 
-  --fg: #282828;
-  --fg1: #3c3836;
-  --fg2: #504945;
-  --fg3: #665c54;
-  --fg4: #7c6f64;
+  --fg:  #1A1917;
+  --fg1: #2E2C29;
+  --fg2: #484440;
+  --fg3: #625D58;
+  --fg4: #7C7670;
 
-  --red: #9d0006;
-  --green: #79740e;
-  --yellow: #b57614;
-  --blue: #076678;
-  --purple: #8f3f71;
-  --aqua: #427b58;
-  --orange: #af3a03;
-  --gray: #928374;
+  --blue:     #1A5FAD;
+  --blue-dim: #4A7FC1;
 
-  --red-dim: #cc2412;
-  --green-dim: #98971a;
-  --yellow-dim: #d79921;
-  --blue-dim: #458598;
-  --purple-dim: #b16286;
-  --aqua-dim: #689d6a;
-  --orange-dim: #d65d0e;
-  --gray-dim: #7c6f64;
+  --red:   #9B1C1C;
+  --green: #2D6A2D;
+
+  --text-secondary: #7C7670;
 }
 
 .darkmode {
-  --bg_h: #1d2021;
-  --bg: #282828;
-  --bg_s: #32302f;
-  --bg1: #3c3836;
-  --bg2: #504945;
-  --bg3: #665c54;
-  --bg4: #7c6f64;
+  --bg_h: #111116;
+  --bg:   #1A1A1F;
+  --bg_s: #222229;
+  --bg1:  #2A2A32;
+  --bg2:  #36363F;
+  --bg3:  #48484F;
+  --bg4:  #606068;
 
-  --fg: #fbf1c7;
-  --fg1: #ebdbb2;
-  --fg2: #d5c4a1;
-  --fg3: #bdae93;
-  --fg4: #a89984;
+  --fg:  #E8E5DF;
+  --fg1: #D8D4CE;
+  --fg2: #C0BBB4;
+  --fg3: #A09A93;
+  --fg4: #807A74;
 
-  --red: #fb4934;
-  --green: #b8bb26;
-  --yellow: #fabd2f;
-  --blue: #83a598;
-  --purple: #d3869b;
-  --aqua: #8ec07c;
-  --gray: #928374;
-  --orange: #fe8019;
+  --blue:     #7BAFD4;
+  --blue-dim: #9DC4E0;
 
-  --red-dim: #cc2412;
-  --green-dim: #98971a;
-  --yellow-dim: #d79921;
-  --blue-dim: #458588;
-  --purple-dim: #b16286;
-  --aqua-dim: #689d6a;
-  --gray-dim: #a89984;
-  --orange-dim: #d65d0e;
+  --red:   #E05555;
+  --green: #6DBF6D;
+
+  --text-secondary: #807A74;
 }
